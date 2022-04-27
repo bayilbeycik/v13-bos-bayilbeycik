@@ -1,0 +1,19 @@
+exports.run = async (client, message, args) => { 
+
+};
+
+//permissions and aliases
+
+exports.conf = {
+  enabled: true,
+  aliases: [],
+  guildOnly: false,
+  permLevel: 'User'
+};
+
+exports.help = {
+  name: '',
+  description: '',
+  usage: '',
+  examples: ''
+};
